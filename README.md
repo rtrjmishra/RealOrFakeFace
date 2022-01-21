@@ -1,2 +1,1 @@
-RealOrFakeFace:-
-Full Flask App from scratch with self-pre trained model
+RealOrFakeFace:-Full Flask App from scratch with self-pre trained model
